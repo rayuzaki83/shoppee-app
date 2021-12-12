@@ -20,7 +20,7 @@ const Navbar = () => {
                       </a>
                     </Link>
                     <Link href="/"><a><span className="text-xl text-gray-600 font-semibold ml-4">
-                      The Shoppee Club
+                      The Shoppeeholics Club
                     </span></a></Link>
                   </div>
 
